@@ -28,6 +28,9 @@ const PopularMenu = () => {
                 </MenuIItemCard>)
             }
         </div>
+        <div className="flex items-center justify-center">
+            <button className="bg-amber-400 px-8 py-2 rounded-2xl cursor-pointer mb-20">View Full Menu</button>
+        </div>
     </div>
   )
 }

@@ -12,6 +12,7 @@ const MenuIItemCard = ({item}) => {
             <p>{recipe}</p>
         </div>
         <p className="text-2xl text-[#BB8506]">${price}</p>
+       
     </div>
   )
 }
